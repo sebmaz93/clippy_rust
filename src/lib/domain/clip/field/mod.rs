@@ -21,3 +21,5 @@ pub use password::Password;
 
 mod hits;
 pub use hits::Hits;
+
+pub use super::ClipError;
