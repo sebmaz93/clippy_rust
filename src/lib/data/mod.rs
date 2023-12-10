@@ -1,4 +1,4 @@
-use derive_more::{Display, From, FromStr};
+use derive_more::{Display, From};
 use serde::{Deserialize, Serialize};
 use std::str::FromStr;
 use uuid::Uuid;
