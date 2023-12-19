@@ -1,4 +1,4 @@
-use super::model;
+use super::{model, DbId};
 use crate::data::{DataError, DatabasePool};
 use crate::ShortCode;
 use sqlx::Row;
